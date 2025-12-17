@@ -9,12 +9,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://huntscreens.com/en/products/codinit" target="_blank">
-        <img src="https://shot.huntscreens.com/badge.svg"
-             alt="Featured on HuntScreens"
-             width="240"
-             height="60" />
-      </a>
+       <a href="https://fazier.com/launches/codinit" target="_blank">
+    <img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=6267&badge_type=weekly&theme=light" width="270" alt="Fazier badge" />
     </td>
   </tr>
 </table>
